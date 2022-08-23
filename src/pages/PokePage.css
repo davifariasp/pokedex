@@ -1,0 +1,51 @@
+.poke--page{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(219, 219, 219);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.poke--img{
+    display: inherit;
+    margin-right: inherit;
+    margin-left: inherit;
+}
+
+.poke--id{
+    color: rgb(132, 132, 132);
+}
+.poke--hp,
+.poke--attack,
+.poke--defense,
+.poke--special-attack,
+.poke--special-defense,
+.poke--speed{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.poke--hp{
+    background-color: rgb(0, 162, 0);
+}
+.poke--attack{
+    background-color: rgb(255, 58, 58);
+}
+.poke--defense{
+    background-color: rgb(0, 128, 255);
+}
+.poke--special-attack{
+    background-color: rgb(255, 255, 75);
+}
+.poke--special-defense{
+    background-color: rgb(221, 111, 255);
+}
+.poke--speed{
+    background-color: rgb(255, 153, 0);
+}

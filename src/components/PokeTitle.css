@@ -1,0 +1,11 @@
+.app--title a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.app--title img{
+    width: 50px;
+}

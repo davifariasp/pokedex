@@ -1,0 +1,17 @@
+.App{
+    text-align: center;
+}
+
+.poke--list{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.poke--list a{
+    color: white;
+    text-decoration: none;
+}
+
+
+

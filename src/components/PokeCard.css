@@ -1,0 +1,26 @@
+.poke--card{
+    background-color: rgb(255, 129, 129);
+    border-radius: 10px;
+    padding: 0px 30px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: scale(0.9);
+    transition: all ease 0.2s; 
+}
+
+.poke--card:hover{
+    transform: scale(1);
+}
+
+.poke--img {
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
+
+.poke--name{
+    font-size: 30px;
+    padding-right: 10px;
+}
